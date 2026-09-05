@@ -1,0 +1,9 @@
+{
+  "name": "Kiosco Nelson - Jefe Edition",
+  "short_name": "Kiosco Nelson",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#facc15",
+  "description": "Kiosco Nelson - Todo en cero - Bienvenido Jefe - Voz hombre argentino - Ilimitado - Autoguardado eterno"
+}
